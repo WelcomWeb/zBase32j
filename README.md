@@ -23,3 +23,6 @@ A Z-Base32 implementation in Java, converted from .NET ([My Ten Pennies original
 		}
 		
 	}
+
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/06a91afc9fa97ecd86fbf6f6591c5d63 "githalytics.com")](http://githalytics.com/WelcomWeb/zBase32j)
